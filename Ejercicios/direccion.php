@@ -12,6 +12,6 @@ print $calla = 'Calle principal,';
 print $cononia= ' Colonia Anabella II,';
 print $municipio= 'Zacatecoluca,';
 print $departamento= ' Departamento La Paz,';
-print $numero= 'Casa nª 453,';
+print $numero= 'Casa 11,';
 }
 ?>
